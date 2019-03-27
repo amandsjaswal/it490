@@ -14,3 +14,7 @@ The user can also add his/her favourite recipe
 
 He/she can then order by viewing it and making the payment.
 
+*LOGS
+When the user logs in, the user details and the timestamp of the login time is written to a text file named login_logs.txt
+When the user logs out, the user details are written to a text file named logout_logs.txt
+
