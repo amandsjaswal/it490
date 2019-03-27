@@ -1,1 +1,16 @@
-I will post here
+This folder includes our API code
+
+We will be using Spoonacular API - Recipe API
+
+After a user registers and login he/she can order food by clicking the green button
+
+This will redirect to a page where the user is going to enter the number of calories they want to order.
+
+Since the user is restricted to only 2000 calories per day, the allowable calories to be searched will be less than or equal to the remaining calories in that day.
+
+The results of the search will be less than or equal to the calories searched. The user then selects an appropriate meal.
+
+The user can also add his/her favourite recipe
+
+He/she can then order by viewing it and making the payment.
+
