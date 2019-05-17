@@ -1,0 +1,21 @@
+*SUMARRY
+After a user registers and logs in he/she can order food by clicking the green button
+
+This will redirect to a page where the user is going to enter the number of calories they want to order.
+
+Since the user is restricted to only 2000 calories per day, the allowable calories to be searched will be less than or equal to the remaining calories in that day.
+
+The results of the search will be less than or equal to the calories searched. The user then selects an appropriate meal.
+
+He/she can then order by viewing it and making the payment.
+
+*LOGS
+When the user logs in, the user details and the timestamp of the login time is written to a text file named login_logs.txt
+When the user logs out, the user details are written to a text file named logout_logs.txt
+
+PAYPAL LOGIN:
+
+Email:
+spoonacula-coder@acc.com
+password:
+red5standingby
